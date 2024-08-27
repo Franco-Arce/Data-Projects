@@ -1,0 +1,33 @@
+fecha_inicio_GMT,equipo_local,equipo_visitante,nombre_arbitro,Media_puntos_partido_local,media_puntos_partdio_visitante,local_puntosporpartido,visitante_puntosporpartido,contador_goles_local,contador_goles_visitante,contador_goles_total,goles_totales_primertiempo,goles_local_primertiempo,goles_visitante_primertiempo,tiempo_gol_local,tiempo_gol_visitante,corners_local,corners_visitante,amarillas_local,rojas_local,amarillas_visitante,rojas_visitante,tarjetas_local_primertiempo,tarjetas_local_segundotiempo,tarjetas_visitante_primertiempo,tarjetas_visitante_segundotiempo,disparos_local,disparos visitante,disparosalarco_local,disparosalarco_visitante,disparosfueradelarco_local,disparosfueradelarco_visitante,faltas_local,faltas_visitante,porcentajeposesion_local,porcentajeposesion_visitante,nombre_estadio
+21/06/2024,Argentina,Canada,Jesús Valenzuela Sáez,0.0,0.0,2.67,1.0,2,0,2,0,0,0,"49,88",No convirtió,7,4,2,0,2,0,0,2,0,2,17,8,10,3,7,5,15,9,64,36,Mercedes-Benz Stadium
+22/06/2024,Peru,Chile,Wilton Pereira Sampaio,0.0,0.0,0.33,0.67,0,0,0,0,0,0,No convirtió,No convirtió,1,3,1,0,3,0,1,0,1,2,7,8,5,2,2,6,18,19,35,65,AT&T Stadium
+22/06/2024,Ecuador,Venezuela,Wilmar Alexander Roldán Pérez,0.0,0.0,1.25,2.5,1,2,3,1,1,0,40,No convirtió,3,5,2,1,2,0,3,0,2,0,9,11,5,6,4,5,20,14,33,67,Levi's Stadium
+23/06/2024,Mexico,Jamaica,Ismail Elfath,0.0,0.0,1.33,0.0,1,0,1,0,0,0,69,No convirtió,7,6,0,0,0,0,0,0,0,0,16,10,10,5,6,5,8,7,61,39,NRG Stadium
+23/06/2024,USMNT,Bolivia,Maurizio Mariani,0.0,0.0,1.0,0.0,2,0,2,2,2,0,"3,44",No convirtió,7,1,1,0,4,0,0,1,3,1,15,6,9,4,6,2,8,17,61,39,AT&T Stadium
+24/06/2024,Uruguay,Panama,Piero Maza Gomez,0.0,0.0,1.83,1.5,3,1,4,1,1,0,"16,85,90'1",No convirtió,9,3,0,0,1,0,0,0,0,1,16,11,8,4,8,7,12,9,55,45,Hard Rock Stadium
+24/06/2024,Colombia,Paraguay,Darío Herrera,0.0,0.0,2.17,0.0,2,1,3,2,2,0,"32,42",69.0,3,3,1,0,2,0,1,0,0,2,10,11,4,4,6,7,10,18,68,32,NRG Stadium
+25/06/2024,Brazil,Costa Rica,César Arturo Ramos Palazuelos,0.0,0.0,1.5,1.33,0,0,0,0,0,0,No convirtió,No convirtió,9,1,1,0,2,0,0,1,0,2,16,0,4,0,12,0,13,10,74,26,SoFi Stadium
+25/06/2024,Peru,Canada,Mario Alberto Escobar Toca,1.0,0.0,0.33,1.0,0,1,1,0,0,0,No convirtió,74.0,2,1,0,1,1,0,0,1,1,0,8,6,5,3,3,3,17,14,48,52,Children's Mercy Park
+26/06/2024,Chile,Argentina,Andrés Matonte,1.0,3.0,0.67,2.67,0,1,1,0,0,0,No convirtió,88.0,0,11,2,0,0,0,0,2,0,0,4,17,4,10,0,7,12,9,39,61,MetLife Stadium
+26/06/2024,Ecuador,Jamaica,Cristián Garay,0.0,0.0,1.25,0.0,3,1,4,2,2,0,"13,45'4,90'1",54.0,7,8,0,0,4,0,0,0,1,3,12,6,4,5,8,1,8,18,45,55,Allegiant Stadium
+27/06/2024,Venezuela,Mexico,Raphael Claus,3.0,3.0,2.5,1.33,1,0,1,0,0,0,57,No convirtió,2,7,2,0,2,0,1,1,1,1,7,12,3,6,4,6,7,12,38,62,SoFi Stadium
+27/06/2024,Panama,USMNT,Ivan Barton,0.0,3.0,1.5,1.0,2,1,3,2,1,1,"26,83",22.0,3,0,3,1,2,1,1,3,2,1,7,7,5,4,2,3,19,4,74,26,Mercedes-Benz Stadium
+28/06/2024,Uruguay,Bolivia,Juan Gabriel Benítez,3.0,0.0,1.83,0.0,5,0,5,2,2,0,"8,21,77,81,89",No convirtió,4,3,0,0,1,0,0,0,0,1,14,4,10,2,4,2,12,14,59,41,MetLife Stadium
+28/06/2024,Colombia,Costa Rica,Gustavo Tejera,3.0,1.0,2.17,1.33,3,0,3,1,1,0,"31,59,62",No convirtió,4,2,2,0,1,0,1,1,1,0,12,5,6,0,6,5,19,14,64,36,StateFarm Stadium
+29/06/2024,Paraguay,Brazil,Piero Maza Gomez,0.0,1.0,0.0,1.5,1,4,5,3,0,3,48,No convirtió,4,6,2,1,3,0,1,2,1,2,14,15,7,7,7,8,12,13,45,55,Allegiant Stadium
+30/06/2024,Canada,Chile,Wilmar Alexander Roldán Pérez,1.5,0.5,1.0,0.67,0,0,0,0,0,0,No convirtió,No convirtió,8,4,4,0,2,1,1,3,3,0,7,7,4,5,3,2,16,8,57,43,Inter&Co Stadium
+30/06/2024,Argentina,Peru,César Arturo Ramos Palazuelos,3.0,0.5,2.67,0.33,2,0,2,0,0,0,"47,86",No convirtió,6,3,1,0,5,0,0,1,2,3,11,5,7,2,4,3,12,20,74,26,Hard Rock Stadium
+01/07/2024,Mexico,Ecuador,Mario Alberto Escobar Toca,1.5,1.5,1.33,1.25,0,0,0,0,0,0,No convirtió,No convirtió,5,2,5,0,2,0,1,4,1,1,11,7,4,4,7,3,16,13,60,40,StateFarm Stadium
+01/07/2024,Jamaica,Venezuela,Maurizio Mariani,0.0,3.0,0.0,2.5,0,3,3,0,0,0,No convirtió,No convirtió,6,9,1,0,1,0,0,1,1,0,8,13,2,4,6,9,4,12,47,53,Q2 Stadium
+02/07/2024,USMNT,Uruguay,Kevin Ortega,1.5,3.0,1.0,1.83,0,1,1,0,0,0,No convirtió,66.0,2,3,2,0,1,0,2,0,1,0,6,12,4,6,2,6,12,12,50,50,Arrowhead Stadium
+02/07/2024,Bolivia,Panama,Edina Alves Batista,0.0,1.5,0.0,1.5,1,3,4,1,0,1,69,No convirtió,2,1,2,0,1,0,1,1,1,0,7,12,5,7,2,5,17,8,51,49, Inter&Co Stadium
+03/07/2024,Brazil,Colombia,Jesús Valenzuela Sáez,2.0,3.0,1.5,2.17,1,1,2,2,1,1,12,No convirtió,6,5,3,0,2,0,2,1,2,0,6,13,4,7,2,6,14,19,51,49,Levi's Stadium
+03/07/2024,Costa Rica,Paraguay,Yael Falcón Pérez,0.5,0.0,1.33,0.0,2,1,3,2,2,0,"3,7",55.0,1,6,3,0,3,0,1,2,2,1,3,13,3,7,0,6,11,17,33,67,Q2 Stadium
+05/07/2024,Argentina,Ecuador,Andrés Matonte,3.0,1.33,2.67,1.25,1,1,2,1,1,0,35,No convirtió,2,5,2,0,2,0,0,2,1,1,7,8,3,3,4,5,11,12,50,50,NRG Stadium
+06/07/2024,Venezuela,Canada,Wilton Pereira Sampaio,3.0,1.33,2.5,1.0,1,1,2,1,0,1,65,13.0,7,3,1,0,2,0,0,1,1,1,12,16,4,8,8,8,4,11,55,45,AT&T Stadium
+06/07/2024,Colombia,Panama,Maurizio Mariani,2.33,2.0,2.17,1.5,5,0,5,3,3,0,"8,15,41,70,90'4",No convirtió,4,2,1,0,3,0,1,0,0,3,6,11,6,4,0,7,15,18,52,48,StateFarm Stadium
+07/07/2024,Uruguay,Brazil,Darío Herrera,3.0,1.67,1.83,1.5,0,0,0,0,0,0,No convirtió,No convirtió,6,2,2,1,2,0,0,3,1,1,9,5,2,4,7,1,26,15,40,60,Allegiant Stadium
+10/07/2024,Argentina,Canada,Piero Maza Gomez,2.5,1.25,2.67,1.0,2,0,2,1,1,0,"22,51",No convirtió,2,2,1,0,3,0,0,1,1,2,10,8,4,3,6,5,5,15,51,49,MetLife Stadium
+11/07/2024,Uruguay,Colombia,César Arturo Ramos Palazuelos,2.5,2.5,1.83,2.17,0,1,1,1,0,1,No convirtió,39.0,4,3,3,1,4,1,1,3,2,3,11,12,3,5,8,7,11,13,62,38,Bank of America Stadium
+14/07/2024,Canada,Uruguay,Alexis Herrera,1.0,2.0,1.0,1.83,2,2,4,2,1,1,"22,80",No convirtió,7,6,4,0,2,0,1,3,1,1,12,9,7,6,5,3,18,17,51,49,Bank of America Stadium
+15/07/2024,Argentina,Colombia,Raphael Claus,2.6,2.6,2.67,2.17,1,0,1,0,0,0,112,No convirtió,4,4,2,0,2,0,0,2,1,1,11,13,7,5,4,8,8,18,44,56,Hard Rock Stadium
